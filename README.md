@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1>Hello, I am Oscar Hernandez! <a href="https://www.linkedin.com/in/oscar-hernandez-983a3a228/">an IT professional 😎</a>
+
+<h2>👨‍💻 My Information Technology Projects:</h2>
+
+<p> Look out for future projects here! <p/>
+
+<h2> 🤳 Connect with me:</h2>
+
+[youtube]: https://www.youtube.com/channel/UCg0jxsGSvazLJyjo5kXQniA
+[instagram]: https://www.instagram.com/ohoscr/
+[linkedin]: https://www.linkedin.com/in/oscar-hernandez-983a3a228/
 
 <!--
 **Oscar-D-Hernandez/Oscar-D-Hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
